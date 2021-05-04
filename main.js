@@ -38,7 +38,7 @@ var select = function(s) {
 
   ScrollLottie({
     target: '#animationWindow2',
-    path: 'w1.json', 
+    path: '2.json', 
     duration: 4, 
     speed: 'medium'
    })
